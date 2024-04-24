@@ -1,1 +1,2 @@
-print("Bye world)
+print("Bye world")
+print ("101")
